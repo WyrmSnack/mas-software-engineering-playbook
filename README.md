@@ -1,5 +1,7 @@
 # The Multi-Agent Software Engineering Playbook: Building Intelligent, Adaptive Systems
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 ## 🚀 New Here? Start Here!
 
 **👉 [START-HERE.md](START-HERE.md)** - Complete navigation guide and getting started instructions
