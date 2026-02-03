@@ -402,7 +402,7 @@ class CodeReviewSystem:
 
 - [Production Patterns Guide](Resources/Production-Patterns.md)
 - [Isorythm Patterns Guide](Resources/Isorythm-Patterns-Guide.md)
-- [MAS-GSE Research Findings](Resources/MAS-GSE-Research-Findings.md)
+- [MASGSE Research Findings](Resources/MASGSE-Research-Findings.md)
 
 ---
 

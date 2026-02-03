@@ -201,7 +201,7 @@ class Blackboard:
         })
 ```
 
-**Research Finding**: Blackboard architecture shows 50-80% improvement for structured analysis tasks in multi-agent systems (MAS-GSE v0.81).
+**Research Finding**: Blackboard architecture shows 50-80% improvement for structured analysis tasks in multi-agent systems (MASGSE v0.81).
 
 ## Market-Based Coordination
 

@@ -478,7 +478,7 @@ class RecoveryManager:
 
 - [Isorythm Patterns Guide](Resources/Isorythm-Patterns-Guide.md)
 - [Production Patterns Guide](Resources/Production-Patterns.md)
-- [MAS-GSE Research Findings](Resources/MAS-GSE-Research-Findings.md)
+- [MASGSE Research Findings](Resources/MASGSE-Research-Findings.md)
 
 ---
 

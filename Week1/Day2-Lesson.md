@@ -91,7 +91,7 @@ message_bus.subscribe("task.completed", agent.handle_task_completed)
 - Systems requiring shared context
 - Research and exploration tasks
 
-**Research Finding**: Blackboard architecture is particularly effective for structured analysis tasks, showing 50-80% improvement in multi-agent systems (MAS-GSE v0.81).
+**Research Finding**: Blackboard architecture is particularly effective for structured analysis tasks, showing 50-80% improvement in multi-agent systems (MASGSE v0.81).
 
 ## Coordination Mechanisms
 
@@ -290,7 +290,7 @@ Isorythm's context management provides shared knowledge similar to blackboard ar
 
 - [Coordination Protocols Guide](Resources/Coordination-Protocols.md)
 - [Isorythm Patterns Guide](Resources/Isorythm-Patterns-Guide.md)
-- [Multi-Turn Coordination Research](Resources/MAS-GSE-Research-Findings.md)
+- [Multi-Turn Coordination Research](Resources/MASGSE-Research-Findings.md)
 
 ---
 

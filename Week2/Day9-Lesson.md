@@ -3,13 +3,13 @@
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:
-- Understand scaling laws from MAS-GSE research
+- Understand scaling laws from MASGSE research
 - Implement horizontal and vertical scaling strategies
 - Optimize agent system performance
 - Apply Isorythm's performance patterns
 - Monitor and measure system performance
 
-## Scaling Laws from MAS-GSE
+## Scaling Laws from MASGSE
 
 **Research Finding**: Different architectures have different scaling properties:
 

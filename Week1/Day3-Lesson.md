@@ -11,7 +11,7 @@ By the end of this lesson, you will be able to:
 
 ## Five Canonical MAS Architectures
 
-Based on MAS-GSE v0.81 research, there are five canonical multi-agent system architectures, each with quantitative scaling laws that help predict performance:
+Based on MASGSE v0.81 research, there are five canonical multi-agent system architectures, each with quantitative scaling laws that help predict performance:
 
 ### 1. Hierarchical Architecture
 
@@ -362,7 +362,7 @@ Isorythm uses a **hybrid architecture** with **framework-agnostic design**:
 
 - [Isorythm Patterns Guide](Resources/Isorythm-Patterns-Guide.md)
 - [Agent Patterns Catalog](Resources/Agent-Patterns-Catalog.md)
-- [MAS-GSE Research Findings](Resources/MAS-GSE-Research-Findings.md)
+- [MASGSE Research Findings](Resources/MASGSE-Research-Findings.md)
 
 ---
 

@@ -50,7 +50,7 @@ Multi-agent systems are particularly well-suited for:
 
 ## When Multi-Agent Systems Work vs. When They Fail
 
-Based on empirical research from 11 academic studies and real-world production deployments (MAS-GSE v0.81), here's what the data tells us:
+Based on empirical research from 11 academic studies and real-world production deployments (MASGSE v0.81), here's what the data tells us:
 
 ### When MAS Works: 50-80% Improvement
 
